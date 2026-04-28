@@ -1,0 +1,12 @@
+Login successful
+✓ Step 1: User logged in
+Entered product name in search: MacBook Pro
+✓ Step 2: Product name entered in search field
+Search button clicked
+✓ Step 3: Search button clicked
+Search in description enabled
+✓ Step 4: Search in description checkbox enabled
+Clicking MacBook Pro link...
+Waiting for MacBook Pro link to be visible...
+Locator used: //a[text()="MacBook Pro"]
+MacBook Pro link is visible, clicking...

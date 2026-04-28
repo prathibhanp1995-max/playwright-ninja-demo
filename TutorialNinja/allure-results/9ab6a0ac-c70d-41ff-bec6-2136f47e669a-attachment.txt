@@ -1,0 +1,18 @@
+
+=== SECTION 1: LOGIN ===
+Login successful
+✓ User logged in
+
+=== SECTION 2: BROWSE COMPONENTS ===
+Components menu opened
+Monitors category selected
+Show dropdown option selected: 25
+First product added to cart
+✓ First product from Components added to cart
+
+=== SECTION 3: VIEW SPECIFICATIONS ===
+Specification tab opened
+Product specification is visible
+✓ Product specifications verified
+
+=== SECTION 4: ADD TO WISHLIST ===

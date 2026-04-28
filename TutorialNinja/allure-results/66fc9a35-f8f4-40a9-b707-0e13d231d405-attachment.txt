@@ -1,0 +1,14 @@
+Login successful
+✓ Step 1: User logged in
+Components menu opened
+✓ Step 2: Components menu opened
+Monitors category selected
+✓ Step 3: Monitors category selected
+Show dropdown option selected: 25
+✓ Step 4: Display count set to 25
+First product added to cart
+✓ Step 5: First product added to cart
+Specification tab opened
+✓ Step 6: Specification tab opened
+Product specification is visible
+✓ Step 7: Product specification visibility verified

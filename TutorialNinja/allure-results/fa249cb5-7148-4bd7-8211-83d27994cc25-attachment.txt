@@ -1,0 +1,18 @@
+Login successful
+✓ Step 1: User logged in
+Components menu opened
+✓ Step 2: Components menu opened
+Monitors category selected
+✓ Step 3: Monitors category selected
+Add to Wishlist button clicked
+✓ Step 4: Product added to wishlist
+Actual success message:  Success: You have added Apple Cinema 30" to your wish list! ×
+Expected success message: Success
+Wishlist success message verified
+✓ Step 5: Wishlist success message verified
+Logout link clicked
+✓ Step 2: Logout link clicked
+Logout message verified
+✓ Step 3: Logout success message verified
+Continue button clicked
+✓ Step 4: Continue button clicked

@@ -1,0 +1,4 @@
+Login successful
+✓ Step 1: User logged in
+Logout link clicked
+✓ Step 2: Logout link clicked

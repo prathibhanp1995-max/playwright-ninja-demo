@@ -1,0 +1,58 @@
+
+=== SECTION 1: LOGIN ===
+Login successful
+✓ User logged in
+
+=== SECTION 2: BROWSE COMPONENTS ===
+Components menu opened
+Monitors category selected
+Show dropdown option selected: 25
+First product added to cart
+✓ First product from Components added to cart
+
+=== SECTION 3: VIEW SPECIFICATIONS ===
+Specification tab opened
+Product specification is visible
+✓ Product specifications verified
+
+=== SECTION 4: ADD TO WISHLIST ===
+Add to Wishlist button clicked
+Actual success message:  Success: You have added Apple Cinema 30" to your wish list! ×
+Expected success message: Success
+Wishlist success message verified
+✓ Product added to wishlist
+
+=== SECTION 5: SEARCH AND ADD PRODUCT ===
+Entered product name in search: MacBook Pro
+Search button clicked
+Search in description enabled
+✓ MacBook Pro search completed
+
+=== SECTION 6: CUSTOMIZE AND ADD TO CART ===
+Clicking Add to Cart button...
+Waiting for Add to Cart button to be visible...
+Add to Cart button is visible, clicking...
+Add to Cart button clicked
+Verifying Add to Cart success message...
+Actual success message:  Success: You have added MacBook Pro to your shopping cart! ×
+Expected success message: Success
+Add to Cart success message verified
+✓ MacBook Pro added to cart with quantity 3
+
+=== SECTION 7: VIEW CART ===
+Cart button clicked
+View Cart link clicked
+Verified product displayed in cart: MacBook Pro
+✓ Products verified in cart
+
+=== SECTION 8: LOGOUT ===
+Logout link clicked
+✓ Step 2: Logout link clicked
+Logout message verified
+✓ Step 3: Logout success message verified
+Continue button clicked
+✓ Step 4: Continue button clicked
+✓ User logged out successfully
+
+=== FULL WORKFLOW COMPLETED SUCCESSFULLY ===
+
